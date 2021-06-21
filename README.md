@@ -1,6 +1,8 @@
-## 2020년 가을학기 고급데이터마이닝 프로젝트
+# 2020년 가을학기 고급데이터마이닝 
 
-## 주제: 청소년 비만 예측 및 패턴도출
+## Part1. 프로젝트
+
+### 주제: 청소년 비만 예측 및 패턴도출
  - ParentsLikeMe에 대한 Business Problem을 정의하고, 이를 Data Science Problem으로 전환하여 해결하고자함
  
 ### 프로젝트 세분화
@@ -24,3 +26,7 @@
  - 청소년건강행태조사(16-18년): 
  
  http://www.kdca.go.kr/yhs/
+
+
+## Part2. Reading Assignment
+ - Hands-on-MachineLearning 책을 읽고 학습하며 정리, 요약하였습니다.
