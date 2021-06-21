@@ -1,7 +1,4 @@
-## 2020년 가을학기 고급데이터마이닝 프로젝트
-
-## 주제: 청소년 비만 예측 및 패턴도출
- - ParentsLikeMe에 대한 Business Problem을 정의하고, 이를 Data Science Problem으로 전환하여 해결하고자함
+## Final Report
  
 ### Introduction
  - 세계 비만 인구는 2008년 기준 총 14억 명, 매년 약 280만 명이 비만 관련 질병으로 사망
